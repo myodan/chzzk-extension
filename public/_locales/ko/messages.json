@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "치지직 확장 프로그램"
+  },
+  "appDesc": {
+    "message": "치지직 확장 프로그램"
+  },
+  "bypassGrid": {
+    "message": "그리드 우회"
+  },
+  "bypassGridDesc": {
+    "message": "프로그램 설치 없이 높은 해상도로 방송을 시청할 수 있습니다."
+  }
+}
